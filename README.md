@@ -241,6 +241,6 @@ Created for the 3rd NELIREF Data Science & AI Summer School 2026.
 
 **Happy Coding!**
 
-Questions? Issues? Reach out at contact@neliref.org or on Telegram at https://t.me/neliref
+Questions? Issues? Reach out at contact@neliref.org, www.neliref.org or on Telegram at https://t.me/neliref
 
 Remember: Every expert was once a beginner. Keep practicing, stay curious, and enjoy the learning journey!
